@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+
+# Parsed output
+^.*\.csv$
+
+# Python Build files
+^.*\.pyc$
+^include$
+^build$

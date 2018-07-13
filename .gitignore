@@ -1,0 +1,13 @@
+# R project files
+.Rproj.user
+.Rhistory
+.RData
+
+# Parsed output
+*.csv
+
+# Python Build files
+/include/__pycache__/*
+build/*
+*.spec
+*.pyc
